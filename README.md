@@ -5,8 +5,12 @@
 
 ---
 ## Subindo a aplicação
-1. Faça um clone do projeto ou zip.
-2. Descompacte a pasta do projeto e abra o CMD nela.
+1. Faça um clone do projeto ou zip e descompacte.
+   ```bash
+   // para fazer o clone
+   git clone https://github.com/Itslucassantos/to-do-list-front-end.git
+    ```
+2. Abra o CMD na pasta.
 3. Rode os seguintes comandos:
    ```bash
    // para instalar todas as dependências
