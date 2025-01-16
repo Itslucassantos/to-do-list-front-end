@@ -2,6 +2,7 @@
 
 1. React + Vite
 2. JavaScript
+3. Node v18.17.1
 
 ---
 ## Subindo a aplicação
