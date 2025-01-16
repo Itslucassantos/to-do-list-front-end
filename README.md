@@ -5,7 +5,7 @@
 
 ---
 ## Subindo a aplicação
-1. Faça um clone do projeto.
+1. Faça um clone do projeto ou zip.
 2. Descompacte a pasta do projeto e abra o CMD nela.
 3. Rode os seguintes comandos:
    ```bash
